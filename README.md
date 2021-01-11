@@ -1,0 +1,2 @@
+# vpsragil
+minersugarchain
